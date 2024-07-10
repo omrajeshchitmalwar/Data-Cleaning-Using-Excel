@@ -3,6 +3,9 @@
 In my recent project on Data Cleaning Using Excel, I focused on ensuring data accuracy, consistency, and usability for analysis. Data cleaning is crucial for reliable insights.
 <br>
 
+![image](https://github.com/omrajeshchitmalwar/Data-Cleaning-Using-Excel/assets/92293388/b2938675-d874-4591-8aec-03d699051508)
+
+<br>
 Give this repository a ⭐ if you liked it, since it took me time to analyze and design this.<br>
 Made with ❤️ by <b>Om Rajesh Chitmalwar<b>
 <br>
